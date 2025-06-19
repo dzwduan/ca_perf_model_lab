@@ -17,10 +17,11 @@
 #include <bitset>
 #include <queue>
 #include <unordered_map>
-#include <stringutil.h>
-#include <simobject.h>
-#include <util.h>
-#include "debug.h"
+#include "../common/stringutil.h"
+#include "../common/simobject.h"
+#include "../common/util.h"
+#include "../common/uuid_gen.h"
+#include "../common/debug.h"
 #include "config.h"
 
 namespace tinyrv {

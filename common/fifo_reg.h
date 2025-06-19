@@ -17,7 +17,8 @@
 #include <memory>
 #include <iostream>
 #include <queue>
-#include <util.h>
+#include "simobject.h"
+#include "util.h"
 
 namespace tinyrv {
 

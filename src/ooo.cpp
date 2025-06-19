@@ -15,10 +15,10 @@
 #include <iomanip>
 #include <string.h>
 #include <assert.h>
-#include <util.h>
+#include "../common/util.h"
 #include "types.h"
 #include "core.h"
-#include "debug.h"
+#include "../common/uuid_gen.h"
 #include "processor_impl.h"
 
 using namespace tinyrv;

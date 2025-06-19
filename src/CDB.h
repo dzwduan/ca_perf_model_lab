@@ -13,7 +13,7 @@
 
 #pragma once
 
-#include <simobject.h>
+#include "../common/simobject.h"
 #include "instr.h"
 
 namespace tinyrv {

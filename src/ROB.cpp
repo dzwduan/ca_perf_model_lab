@@ -13,9 +13,9 @@
 
 #include <iostream>
 #include <assert.h>
-#include <util.h>
+#include "../common/util.h"
 #include "types.h"
-#include "debug.h"
+#include "../common/debug.h"
 #include "ROB.h"
 
 using namespace tinyrv;

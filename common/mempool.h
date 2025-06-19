@@ -14,6 +14,8 @@
 #pragma once
 
 #include <stack>
+#include <memory>
+#include <cstdint>
 
 template <typename T>
 class MemoryPool {

@@ -19,9 +19,9 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/stat.h>
-#include <util.h>
+#include "../common/util.h"
 #include "processor.h"
-#include "mem.h"
+#include "../common/mem.h"
 #include "core.h"
 
 using namespace tinyrv;

@@ -16,7 +16,7 @@
 #include <cstdint>
 #include <algorithm>
 #include <assert.h>
-#include <bitmanip.h>
+#include "bitmanip.h"
 
 template <typename... Args>
 void unused(Args&&...) {}

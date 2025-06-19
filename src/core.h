@@ -22,12 +22,12 @@
 #include <sstream>
 #include <memory>
 #include <set>
-#include <simobject.h>
-#include <mem.h>
-#include "debug.h"
+#include "../common/simobject.h"
+#include "../common/mem.h"
+#include "../common/debug.h"
 #include "types.h"
-#include "val_reg.h"
-#include "fifo_reg.h"
+#include "../common/val_reg.h"
+#include "../common/fifo_reg.h"
 #include "instr.h"
 #include "RAT.h"
 #include "RS.h"
