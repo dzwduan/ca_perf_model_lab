@@ -82,3 +82,8 @@ Based on the coverage of test suites, you will get partial scores.
 ## Resources
 * RISC-V ISA Specs: https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
 * Class materials.
+
+
+## References
+
+[benchmarks](https://github.com/henrynvn09/151b-design-CPU-RISC-V/tree/main/project2/project2)
